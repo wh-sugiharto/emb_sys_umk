@@ -6,4 +6,4 @@
 | Making Embedded Systems | White | 2011 |
 | Karya Ilmiah WHS (Scopus) | Wibowo Harry Sugiharto | — |
 
-📥 Download: [https://drive.google.com/drive/folders/1F7kWU53mNs...](https://drive.google.com/drive/folders/1F7kWU53mNscT1wGQ6Hy2-tjAej37nDlC?usp=sharing)
+Download: [https://drive.google.com/drive/folders/1F7kWU53mNs...](https://drive.google.com/drive/folders/1F7kWU53mNscT1wGQ6Hy2-tjAej37nDlC?usp=sharing)

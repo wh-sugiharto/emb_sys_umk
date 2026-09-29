@@ -1,6 +1,6 @@
 # Pertemuan 12-13: Sensor Jarak Ultrasonik & Cahaya
 
-**Mata Kuliah:** IFE309 Praktikum Embedded System  
+**Mata Kuliah:** IFE309 Praktikum Embedded System 
 **Dosen:** Dr. Ir. Wibowo Harry Sugiharto, M.Kom.
 
 ---

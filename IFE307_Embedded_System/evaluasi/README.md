@@ -1,6 +1,6 @@
 # Evaluasi Mandiri: Soal latihan mandiri per Sub-CPMK
 
-**Bobot:** —  
+**Bobot:** — 
 **Mata Kuliah:** IFE307 Embedded System (Teori)
 
 ---

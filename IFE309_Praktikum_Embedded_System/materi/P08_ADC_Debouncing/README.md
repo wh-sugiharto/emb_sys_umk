@@ -1,6 +1,6 @@
 # Pertemuan 8-9: Tombol, Debouncing & ADC
 
-**Mata Kuliah:** IFE309 Praktikum Embedded System  
+**Mata Kuliah:** IFE309 Praktikum Embedded System 
 **Dosen:** Dr. Ir. Wibowo Harry Sugiharto, M.Kom.
 
 ---

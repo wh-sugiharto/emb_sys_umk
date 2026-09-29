@@ -1,6 +1,6 @@
 # Referensi: Datasheet & Referensi Teknis
 
-**Status:** —  
+**Status:** — 
 **Mata Kuliah:** IFE309 Praktikum Embedded System
 
 ---

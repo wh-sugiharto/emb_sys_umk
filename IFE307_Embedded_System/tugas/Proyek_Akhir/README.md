@@ -1,6 +1,6 @@
 # Proyek Akhir: Demonstrasi Sistem Embedded
 
-**Bobot:** 30%  
+**Bobot:** 30% 
 **Mata Kuliah:** IFE307 Embedded System (Teori)
 
 ---

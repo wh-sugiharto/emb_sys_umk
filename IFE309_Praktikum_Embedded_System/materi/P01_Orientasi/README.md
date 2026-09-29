@@ -1,6 +1,6 @@
 # Pertemuan 1: Orientasi Praktikum & Arduino IDE
 
-**Mata Kuliah:** IFE309 Praktikum Embedded System  
+**Mata Kuliah:** IFE309 Praktikum Embedded System 
 **Dosen:** Dr. Ir. Wibowo Harry Sugiharto, M.Kom.
 
 ---

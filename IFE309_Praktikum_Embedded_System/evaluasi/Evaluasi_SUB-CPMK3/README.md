@@ -1,6 +1,6 @@
 # Evaluasi Lab 3: SUB-CPMK 3 — Sensor
 
-**Status:** Dinilai  
+**Status:** Dinilai 
 **Mata Kuliah:** IFE309 Praktikum Embedded System
 
 ---

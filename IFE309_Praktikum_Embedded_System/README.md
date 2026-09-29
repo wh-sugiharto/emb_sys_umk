@@ -1,7 +1,7 @@
 # IFE309 — Praktikum Embedded System
 
-**Kode MK:** IFE309 | **Kelas:** A | **SKS:** 1 SKS Praktikum  
-**Dosen:** Dr. Ir. Wibowo Harry Sugiharto, M.Kom.  
+**Kode MK:** IFE309 | **Kelas:** A | **SKS:** 1 SKS Praktikum 
+**Dosen:** Dr. Ir. Wibowo Harry Sugiharto, M.Kom. 
 **Semester:** Ganjil 2026/2027
 
 ---
@@ -46,4 +46,4 @@ Praktikum berbasis Arduino untuk mengimplementasikan konsep embedded system seca
 
 ---
 
-📚 Referensi Jurnal & Buku: [https://drive.google.com/drive/folders/1...](https://drive.google.com/drive/folders/1F7kWU53mNscT1wGQ6Hy2-tjAej37nDlC?usp=sharing)
+Referensi Jurnal & Buku: [https://drive.google.com/drive/folders/1...](https://drive.google.com/drive/folders/1F7kWU53mNscT1wGQ6Hy2-tjAej37nDlC?usp=sharing)

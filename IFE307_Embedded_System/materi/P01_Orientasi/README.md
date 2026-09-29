@@ -1,6 +1,6 @@
 # Pertemuan 1: Pengantar Embedded System & Mikrokontroler
 
-**Mata Kuliah:** IFE307 Embedded System (Teori)  
+**Mata Kuliah:** IFE307 Embedded System (Teori) 
 **Dosen:** Dr. Ir. Wibowo Harry Sugiharto, M.Kom.
 
 ---

@@ -1,6 +1,6 @@
 # Pertemuan 2-3: Input/Output Digital & PWM
 
-**Mata Kuliah:** IFE307 Embedded System (Teori)  
+**Mata Kuliah:** IFE307 Embedded System (Teori) 
 **Dosen:** Dr. Ir. Wibowo Harry Sugiharto, M.Kom.
 
 ---

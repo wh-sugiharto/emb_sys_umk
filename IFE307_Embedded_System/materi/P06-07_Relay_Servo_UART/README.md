@@ -1,6 +1,6 @@
 # Pertemuan 6-7: Relay, Motor Servo & UART
 
-**Mata Kuliah:** IFE307 Embedded System (Teori)  
+**Mata Kuliah:** IFE307 Embedded System (Teori) 
 **Dosen:** Dr. Ir. Wibowo Harry Sugiharto, M.Kom.
 
 ---

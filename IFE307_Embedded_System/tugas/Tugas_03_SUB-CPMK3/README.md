@@ -1,6 +1,6 @@
 # Tugas 03: SUB-CPMK 3 — ADC, Debouncing & Sensor Suhu
 
-**Bobot:** 15%  
+**Bobot:** 15% 
 **Mata Kuliah:** IFE307 Embedded System (Teori)
 
 ---

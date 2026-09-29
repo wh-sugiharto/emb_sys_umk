@@ -1,6 +1,6 @@
 # Tugas Tertulis 3: SUB-CPMK 3 — Sensor
 
-**Status:** —  
+**Status:** — 
 **Mata Kuliah:** IFE309 Praktikum Embedded System
 
 ---

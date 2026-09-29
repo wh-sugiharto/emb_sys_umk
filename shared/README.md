@@ -9,5 +9,5 @@ Sumber daya yang digunakan oleh kedua mata kuliah (IFE307 dan IFE309).
 
 ---
 
-📚 Google Drive (Jurnal & Buku): [https://drive.google.com/drive/folders/1...](https://drive.google.com/drive/folders/1F7kWU53mNscT1wGQ6Hy2-tjAej37nDlC?usp=sharing)  
-💻 Repository GitHub: https://github.com/wh-sugiharto/emb_sys_umk
+Google Drive (Jurnal & Buku): [https://drive.google.com/drive/folders/1...](https://drive.google.com/drive/folders/1F7kWU53mNscT1wGQ6Hy2-tjAej37nDlC?usp=sharing) 
+Repository GitHub: https://github.com/wh-sugiharto/emb_sys_umk

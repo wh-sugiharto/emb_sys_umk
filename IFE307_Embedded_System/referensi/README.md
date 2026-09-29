@@ -1,6 +1,6 @@
 # Referensi: Daftar Referensi IFE307
 
-**Bobot:** —  
+**Bobot:** — 
 **Mata Kuliah:** IFE307 Embedded System (Teori)
 
 ---

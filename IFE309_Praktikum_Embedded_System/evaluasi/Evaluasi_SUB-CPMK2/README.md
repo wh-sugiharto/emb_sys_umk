@@ -1,6 +1,6 @@
 # Evaluasi Lab 2: SUB-CPMK 2 — I/O Interfacing
 
-**Status:** Dinilai  
+**Status:** Dinilai 
 **Mata Kuliah:** IFE309 Praktikum Embedded System
 
 ---

@@ -1,7 +1,7 @@
 # IFE307 — Embedded System (Teori)
 
-**Kode MK:** IFE307 | **Kelas:** A | **SKS:** 2 SKS Teori  
-**Dosen:** Dr. Ir. Wibowo Harry Sugiharto, M.Kom.  
+**Kode MK:** IFE307 | **Kelas:** A | **SKS:** 2 SKS Teori 
+**Dosen:** Dr. Ir. Wibowo Harry Sugiharto, M.Kom. 
 **Semester:** Ganjil 2026/2027
 
 ---
@@ -53,4 +53,4 @@ Mata kuliah ini memberikan landasan teoritis sistem komputasi tertanam (*embedde
 
 ---
 
-📚 Referensi Jurnal & Buku: [https://drive.google.com/drive/folders/1...](https://drive.google.com/drive/folders/1F7kWU53mNscT1wGQ6Hy2-tjAej37nDlC?usp=sharing)
+Referensi Jurnal & Buku: [https://drive.google.com/drive/folders/1...](https://drive.google.com/drive/folders/1F7kWU53mNscT1wGQ6Hy2-tjAej37nDlC?usp=sharing)

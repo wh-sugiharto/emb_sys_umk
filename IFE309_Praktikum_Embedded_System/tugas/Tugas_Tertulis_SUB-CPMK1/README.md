@@ -1,6 +1,6 @@
 # Tugas Tertulis 1: SUB-CPMK 1
 
-**Status:** —  
+**Status:** — 
 **Mata Kuliah:** IFE309 Praktikum Embedded System
 
 ---

@@ -1,6 +1,6 @@
 # Pertemuan 5: LCD 16x2 & Protokol I2C
 
-**Mata Kuliah:** IFE307 Embedded System (Teori)  
+**Mata Kuliah:** IFE307 Embedded System (Teori) 
 **Dosen:** Dr. Ir. Wibowo Harry Sugiharto, M.Kom.
 
 ---

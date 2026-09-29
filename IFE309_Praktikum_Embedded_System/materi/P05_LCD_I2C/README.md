@@ -1,6 +1,6 @@
 # Pertemuan 5: LCD 16x2 & I2C
 
-**Mata Kuliah:** IFE309 Praktikum Embedded System  
+**Mata Kuliah:** IFE309 Praktikum Embedded System 
 **Dosen:** Dr. Ir. Wibowo Harry Sugiharto, M.Kom.
 
 ---

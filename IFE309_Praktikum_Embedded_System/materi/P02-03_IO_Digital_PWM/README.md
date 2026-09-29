@@ -1,6 +1,6 @@
 # Pertemuan 2-3: I/O Digital & PWM
 
-**Mata Kuliah:** IFE309 Praktikum Embedded System  
+**Mata Kuliah:** IFE309 Praktikum Embedded System 
 **Dosen:** Dr. Ir. Wibowo Harry Sugiharto, M.Kom.
 
 ---

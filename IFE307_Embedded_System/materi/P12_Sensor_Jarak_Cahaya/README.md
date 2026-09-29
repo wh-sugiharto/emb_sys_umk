@@ -1,6 +1,6 @@
 # Pertemuan 12: Sensor Jarak & Sensor Cahaya
 
-**Mata Kuliah:** IFE307 Embedded System (Teori)  
+**Mata Kuliah:** IFE307 Embedded System (Teori) 
 **Dosen:** Dr. Ir. Wibowo Harry Sugiharto, M.Kom.
 
 ---
