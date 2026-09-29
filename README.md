@@ -11,7 +11,7 @@
 | Kode | Nama | SKS | Tipe |
 |------|------|-----|------|
 | [IFE307](./IFE307_Embedded_System/) | Embedded System | 2 SKS | Teori |
-| [IFE309](./IFE309_Praktikum_Embedded_System/) | Praktikum Embedded System | 1 SKS | Praktikum |
+| [IFE309](./IFE309_Praktikum_Embedded_System/) | Praktikum Embedded System | 2 SKS | Praktikum |
 
 ---
 
