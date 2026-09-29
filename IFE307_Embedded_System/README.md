@@ -12,17 +12,6 @@ Mata kuliah ini memberikan landasan teoritis sistem komputasi tertanam (*embedde
 
 ---
 
-## Bobot Penilaian
-
-| Komponen | Bobot |
-|----------|-------|
-| Tugas Terstruktur | 30% |
-| Aktivitas Partisipatif (AP) | 20% |
-| Proyek Akhir | 30% |
-| UAS (Teori) | 20% |
-
----
-
 ## Isi Repository
 
 | Folder | Isi |
