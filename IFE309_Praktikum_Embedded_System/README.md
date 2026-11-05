@@ -1,19 +1,19 @@
-# IFE309 — Praktikum Embedded System
+# IFE309: Praktikum Embedded System
 
-**Kode MK:** IFE309 | **Kelas:** A | **SKS:** 1 SKS Praktikum 
-**Dosen:** Dr. Ir. Wibowo Harry Sugiharto, M.Kom. 
+**Kode MK:** IFE309 | **Kelas:** A | **SKS:** 1 SKS Praktikum  
+**Dosen:** Dr. Ir. Wibowo Harry Sugiharto, M.Kom.  
 **Semester:** Ganjil 2026/2027
 
 ---
 
 ## Deskripsi
 
-Praktikum berbasis Arduino untuk mengimplementasikan konsep embedded system secara langsung: dari kontrol I/O digital, modulasi PWM, protokol I2C, hingga pembacaan sensor dan penggerak aktuator.
+Praktikum berbasis Arduino untuk mengimplementasikan konsep embedded system secara langsung: dari kontrol I/O digital, modulasi PWM, komunikasi serial UART, protokol I2C, hingga pembacaan sensor dan penggerak aktuator.
 
 **Sistem Evaluasi Praktikum:**
-- **Tugas Lab** = dikerjakan di lab, bersifat latihan, **tidak dinilai**
-- **Evaluasi Lab** = soal dari tugas yang sama, **dinilai**, dikerjakan mandiri
-- Soal Evaluasi dibedakan: **NIM Ganjil** dan **NIM Genap** (anti-contekan)
+- **Tugas Lab**: dikerjakan di lab sebagai latihan, tidak dinilai
+- **Evaluasi Lab**: soal dari topik yang sama, dinilai, dikerjakan mandiri
+- Soal Evaluasi dibedakan antara **NIM Ganjil** dan **NIM Genap**
 
 ---
 
@@ -21,29 +21,26 @@ Praktikum berbasis Arduino untuk mengimplementasikan konsep embedded system seca
 
 | Folder | Isi |
 |--------|-----|
-| [materi/](./materi/) | Modul praktikum + source code Arduino |
+| [materi/](./materi/) | Modul praktikum dan kode sumber Arduino |
 | [tugas/](./tugas/) | Template tugas tertulis |
 | [evaluasi/](./evaluasi/) | Soal evaluasi lab per Sub-CPMK |
-| [referensi/](./referensi/) | Datasheet komponen & referensi teknis |
+| [referensi/](./referensi/) | Datasheet komponen dan referensi teknis |
 
 ---
 
-## Jadwal & Link Modul
+## Jadwal dan Link Modul
 
 | Pertemuan | Topik | Link Modul | Evaluasi |
 |-----------|-------|------------|----------|
-| 1 | Orientasi & Arduino IDE | [→ P01](./materi/P01_Orientasi/) | — |
-| 2-3 | I/O Digital & PWM | [→ P02-03](./materi/P02-03_IO_Digital_PWM/) | — |
-| 4 | **Asesmen SUB-CPMK 1** | [→ Tugas](./tugas/Tugas_Tertulis_SUB-CPMK1/) | Tugas Tertulis |
-| 5 | LCD 16x2 & I2C | [→ P05](./materi/P05_LCD_I2C/) | — |
-| 6-7 | Relay & Motor Servo | [→ P06-07](./materi/P06-07_Relay_Servo/) | — |
-| 8 | **Asesmen SUB-CPMK 2** | [→ Evaluasi](./evaluasi/Evaluasi_SUB-CPMK2/) | Evaluasi Lab |
-| 9-10 (P08) | Debouncing & ADC | [→ P08](./materi/P08_ADC_Debouncing/) | — |
-| 11 | **Asesmen SUB-CPMK 3** | [→ Evaluasi](./evaluasi/Evaluasi_SUB-CPMK3/) | Evaluasi Lab |
-| 11-12 | Sensor Suhu LM35 | [→ P11](./materi/P11_Sensor_Suhu/) | — |
-| 12-13 | Sensor Jarak & Cahaya | [→ P12-13](./materi/P12-13_Sensor_Jarak/) | — |
-| 14-16 | **Proyek Akhir & UAS** | — | Demo + UAS |
+| 1 | Orientasi dan Arduino IDE | [P01](./materi/P01_Orientasi/) | - |
+| 2-3 | I/O Digital dan PWM | [P02-03](./materi/P02-03_IO_Digital_PWM/) | Evaluasi Lab |
+| 4-5 | Output Serial (UART) dan LCD 16x2 I2C | [P04-05](./materi/P04-05_UART_LCD_I2C/) | Evaluasi Lab |
+| 6-7 | Relay dan Motor Servo | [P06-07](./materi/P06-07_Relay_Servo/) | Evaluasi Lab |
+| 8-9 | Tombol, Debouncing, dan ADC | [P08](./materi/P08_ADC_Debouncing/) | Evaluasi Lab |
+| 10 | Sensor Suhu | [P11](./materi/P11_Sensor_Suhu/) | Evaluasi Lab |
+| 11-12 | Sensor Jarak dan Cahaya | [P12-13](./materi/P12-13_Sensor_Jarak/) | Evaluasi Lab |
+| 13-16 | Proyek Akhir dan UAS Praktikum | - | Demo dan UAS |
 
 ---
 
-Referensi Jurnal & Buku: [https://drive.google.com/drive/folders/1...](https://drive.google.com/drive/folders/1F7kWU53mNscT1wGQ6Hy2-tjAej37nDlC?usp=sharing)
+Referensi Jurnal dan Buku: [Google Drive Referensi](https://drive.google.com/drive/folders/1F7kWU53mNscT1wGQ6Hy2-tjAej37nDlC?usp=sharing)
