@@ -1,22 +1,21 @@
-# Pertemuan 6-7: Relay, Motor Servo & UART
+# Pertemuan 6-7: Relay dan Motor Servo
 
-**Mata Kuliah:** IFE307 Embedded System (Teori) 
-**Dosen:** Dr. Ir. Wibowo Harry Sugiharto, M.Kom.
+**Mata Kuliah:** IFE307 Embedded System (Teori)  
+**Dosen:** Dr. Ir. Wibowo Harry Sugiharto, S.Kom., M.Kom., IPP
+
+---
+
+## Materi
+
+- [P06_Relay_Kontrol_Beban_Eksternal.pdf](./P06_Relay_Kontrol_Beban_Eksternal.pdf)
 
 ---
 
 ## Materi Pokok
 
-- Relay: coil, COM/NO/NC, flyback diode
-- Servo: sinyal PWM 20ms, Library Servo.h
-- UART: baud rate, TX/RX, Serial.print()
+- Pertemuan 6: Prinsip elektromekanis relay, SPDT (COM, NO, NC), spesifikasi bodi, driver transistor, dioda *flyback*, isolasi optocoupler, logika *Active LOW*, pengkabelan seri fasa, serta konsep histeresis
+- Pertemuan 7: Motor servo (materi lanjutan menyusul)
 
 ---
 
-## File
-
-*Slide dan catatan akan ditambahkan di sini.*
-
----
-
-← [Kembali ke Daftar Materi](../)
+[Kembali ke Daftar Materi](../)
